@@ -1,0 +1,36 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head><meta http-equiv="content-type" content="text/html; charset=utf-8"><meta name="viewport" content="initial-scale=1"><title>https://google.com/</title></head>
+<body style="font-family: arial, sans-serif; background-color: #fff; color: #000; padding:20px; font-size:18px; overscroll-behavior:contain;" onload="e=document.getElementById('captcha');if(e){e.focus();} if(solveSimpleChallenge) {solveSimpleChallenge(0,0);}">
+<div style="max-width:400px;">
+<hr noshade size="1" style="color:#ccc; background-color:#ccc;"><br>
+<form id="captcha-form" action="index" method="post">
+<noscript>
+<div style="font-size:13px;">
+  In order to continue, please enable javascript on your web browser.
+</div>
+</noscript>
+<script src="https://www.google.com/recaptcha/enterprise.js" async defer></script>
+<script>var submitCallback = function(response) {document.getElementById('captcha-form').submit();};</script>
+<div id="recaptcha" class="g-recaptcha" data-sitekey="6LfwuyUTAAAAAOAmoS0fdqijC2PbbdH4kjq62Y1b" data-callback="submitCallback" data-s="RTSyPtVmbZxyIBFHKLxwE9btkHV-Qe8SG4p9xVtoqjAwStdfLklcrftnypWb2LRf8WhKJCuJCqXKmS3E6Imgdnc9g0GFK6eTh9qfhPrVZPpC08XZbJhSL77a32g2wFQlzXcTPjseE_ii_cnFEKdYi78KZ74-1QLQgmnfJFzR9zOF3pUEdYc2jRs7whyvFnOvRQY4NQI5Iw5QeglzuEqPXJ2gb5TlgaAt6v_lU5JGs5lr-iToVsGFeRFSGF92OB1aux4I8mCuRP8ljCjUyfQ"></div>
+
+<input type='hidden' name='q' value='EgSsRbAQGKz69M0GIikBhkZaTnpmYL7gk8exSeUxbC0pzmbpIWpIMKRAubFkO1guZCeUipHugDICclJaAUM'><input type="hidden" name="continue" value="https://google.com/">
+</form>
+<hr noshade size="1" style="color:#ccc; background-color:#ccc;">
+
+<div style="font-size:13px;">
+<b>About this page</b><br><br>
+
+Our systems have detected unusual traffic from your computer network.  This page checks to see if it&#39;s really you sending the requests, and not a robot.  <a href="#" onclick="document.getElementById('infoDiv').style.display='block';">Why did this happen?</a><br><br>
+
+<div id="infoDiv" style="display:none; background-color:#eee; padding:10px; margin:0 0 15px 0; line-height:1.4em;">
+This page appears when Google automatically detects requests coming from your computer network which appear to be in violation of the <a href="//www.google.com/policies/terms/">Terms of Service</a>. The block will expire shortly after those requests stop.  In the meantime, solving the above CAPTCHA will let you continue to use our services.<br><br>This traffic may have been sent by malicious software, a browser plug-in, or a script that sends automated requests.  If you share your network connection, ask your administrator for help &mdash; a different computer using the same IP address may be responsible.  <a href="//support.google.com/websearch/answer/86640">Learn more</a><br><br>Sometimes you may be asked to solve the CAPTCHA if you are using advanced terms that robots are known to use, or sending requests very quickly.
+</div>
+<br><div style="font-size:13px; line-break: anywhere;">
+IP address: 172.69.176.86<br>Time: 2026-03-20T12:27:25Z<br>URL: https://google.com/<br>
+</div>
+</div>
+</div>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon='{"version":"2024.11.0","token":"dd3dc7ddfa1e4afe9fa1838113d1acc9","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+</html>
